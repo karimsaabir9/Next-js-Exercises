@@ -1,0 +1,5 @@
+![Q1](/exercise_2/app/pic/Q1%20%20Server%20Component.png)
+![Q2](/exercise_2/app/pic/Q2%20Client%20Component%20.png)
+![Q3](/exercise_2/app/pic/Q3%20SSR.png)
+![Q4](/exercise_2/app/pic/Q4%20SSG.png)
+![Q5](/exercise_2/app/pic/Q5%20Streaming%20with%20Suspense.png)
